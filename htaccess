@@ -1,0 +1,8 @@
+
+# HTID:6956411: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+php_value upload_max_filesize 800M
+php_value post_max_size 800M
+php_value max_input_time 180000
+php_value max_execution_time 180000
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:6956411:
